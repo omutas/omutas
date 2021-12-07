@@ -11,6 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog yazarak dolar kazanabileceğiniz 10 platform](https://medium.com/codimis/blog-yazarak-dolar-kazanabilece%C4%9Finiz-10-platform-519a9c4aa317?source=rss-bdbfdefc7338------2)
+- [Frontend Geliştiricileri için En Yararlı 57 Github Reposu](https://medium.com/codimis/frontend-geli%C5%9Ftiricileri-i%C3%A7in-en-yararl%C4%B1-57-github-reposu-15c0bd176905?source=rss-bdbfdefc7338------2)
+- [List of Useful Tools and Websites to Build Landing Page](https://mugurtas.medium.com/list-of-useful-tools-and-websites-to-build-landing-page-109ebc895b65?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
