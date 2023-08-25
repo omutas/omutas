@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing the Right List Implementation for Optimal Performance in Java](https://medium.com/codimis/choosing-the-right-list-implementation-for-optimal-performance-in-java-9f525886558e?source=rss-bdbfdefc7338------2)
 - [Java Interview Questions for Junior Developers — Part 4](https://medium.com/codimis/java-interview-questions-for-junior-developers-part-4-d4fb946b3a9d?source=rss-bdbfdefc7338------2)
 - [How to Safeguard Data Integrity with the Java final Keyword?](https://medium.com/codimis/how-to-safeguard-data-integrity-with-the-java-final-keyword-128049378e61?source=rss-bdbfdefc7338------2)
 - [Java Interview Questions for Junior Developers — Part 3](https://medium.com/codimis/java-interview-questions-for-junior-developers-part-3-eb39b90ea599?source=rss-bdbfdefc7338------2)
-- [Java Generics Best Practices](https://medium.com/codimis/java-generics-best-practices-47b3f5c610ef?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
