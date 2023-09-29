@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategies to Avoid NullPointerExceptions for Null-Safe Stream Operations in Java](https://medium.com/codimis/strategies-to-avoid-nullpointerexceptions-for-null-safe-stream-operations-in-java-f1fe6f025476?source=rss-bdbfdefc7338------2)
 - [Interview Questions — Optional in Java](https://medium.com/codimis/interview-questions-optional-in-java-e741df9ef5dd?source=rss-bdbfdefc7338------2)
 - [Java Interview Questions for Junior Developers — Part 5](https://medium.com/codimis/java-interview-questions-for-junior-developers-part-5-c12a52e3af15?source=rss-bdbfdefc7338------2)
 - [What is the purpose of the ThreadLocal class in Java?](https://medium.com/codimis/what-is-the-purpose-of-the-threadlocal-class-in-java-863ef2505e33?source=rss-bdbfdefc7338------2)
-- [Understanding Shallow, Lazy and Deep Clone in Java](https://medium.com/codimis/understanding-shallow-lazy-and-deep-clone-in-java-b86c802025f6?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
