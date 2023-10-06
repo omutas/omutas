@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optional Best Practices](https://medium.com/codimis/optional-best-practices-e561e0a6f684?source=rss-bdbfdefc7338------2)
 - [Migrating the Old Java Date API with Java 8’s Time API](https://medium.com/codimis/migrate-the-old-java-date-api-with-java-8s-time-api-b9f7c3e3e3a4?source=rss-bdbfdefc7338------2)
 - [Eliminating NullPointerExceptions in Method Chains](https://medium.com/codimis/eliminating-nullpointerexceptions-in-method-chains-2ffeadc11759?source=rss-bdbfdefc7338------2)
 - [Strategies to Avoid NullPointerExceptions for Null-Safe Stream Operations in Java](https://medium.com/codimis/strategies-to-avoid-nullpointerexceptions-for-null-safe-stream-operations-in-java-f1fe6f025476?source=rss-bdbfdefc7338------2)
-- [Interview Questions — Optional in Java](https://medium.com/codimis/interview-questions-optional-in-java-e741df9ef5dd?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
