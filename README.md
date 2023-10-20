@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Runnable vs Callable in Java](https://medium.com/codimis/runnable-vs-callable-in-java-5cb9de757b16?source=rss-bdbfdefc7338------2)
 - [Complete Guide for Optional in Java](https://medium.com/codimis/complete-guide-for-optional-in-java-4731087fe3a2?source=rss-bdbfdefc7338------2)
 - [Interview Questions — Exception Handling in Java](https://medium.com/codimis/interview-questions-exception-handling-in-java-54a7942c00a2?source=rss-bdbfdefc7338------2)
 - [Understanding Primitive and Object Boolean Types in Java](https://medium.com/codimis/understanding-primitive-and-object-boolean-types-in-java-3f75e948298f?source=rss-bdbfdefc7338------2)
-- [Optional Best Practices](https://medium.com/codimis/optional-best-practices-e561e0a6f684?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
