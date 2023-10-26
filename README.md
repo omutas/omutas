@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview Questions — Annotations in Java](https://medium.com/codimis/interview-questions-annotations-in-java-3e91393282e?source=rss-bdbfdefc7338------2)
 - [Functional Interface Annotation in Java](https://medium.com/codimis/functional-interface-annotation-in-java-2e04a1b58f0e?source=rss-bdbfdefc7338------2)
 - [Runnable vs Callable in Java](https://medium.com/codimis/runnable-vs-callable-in-java-5cb9de757b16?source=rss-bdbfdefc7338------2)
 - [Complete Guide for Optional in Java](https://medium.com/codimis/complete-guide-for-optional-in-java-4731087fe3a2?source=rss-bdbfdefc7338------2)
-- [Interview Questions — Exception Handling in Java](https://medium.com/codimis/interview-questions-exception-handling-in-java-54a7942c00a2?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
