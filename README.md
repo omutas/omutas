@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Effective Java Coding Practices](https://medium.com/codimis/effective-java-coding-practices-55d0b776f503?source=rss-bdbfdefc7338------2)
 - [Default Values of Primitive Types in Java](https://medium.com/codimis/default-values-of-primitive-types-in-java-aa26ac622b71?source=rss-bdbfdefc7338------2)
 - [Interview Questions — Annotations in Java](https://medium.com/codimis/interview-questions-annotations-in-java-3e91393282e?source=rss-bdbfdefc7338------2)
 - [Functional Interface Annotation in Java](https://medium.com/codimis/functional-interface-annotation-in-java-2e04a1b58f0e?source=rss-bdbfdefc7338------2)
-- [Runnable vs Callable in Java](https://medium.com/codimis/runnable-vs-callable-in-java-5cb9de757b16?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
