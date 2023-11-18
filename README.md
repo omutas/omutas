@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stack Memory and How It Works in Java](https://medium.com/codimis/stack-memory-and-how-it-works-in-java-5f8b904fdc25?source=rss-bdbfdefc7338------2)
 - [Bitwise Operator vs Logical Operator in Java](https://medium.com/codimis/bitwise-operator-vs-logical-operator-in-java-00870df56821?source=rss-bdbfdefc7338------2)
 - [Understanding the new Keyword in Java](https://medium.com/codimis/understanding-the-new-keyword-in-java-be571dec090b?source=rss-bdbfdefc7338------2)
 - [Understanding Literals in Java](https://medium.com/codimis/understanding-literals-in-java-80133b81f225?source=rss-bdbfdefc7338------2)
-- [Effective Java Coding Practices](https://medium.com/codimis/effective-java-coding-practices-55d0b776f503?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
