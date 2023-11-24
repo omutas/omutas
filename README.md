@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exception, What Happens Behind the Scenes in Java](https://medium.com/codimis/exception-what-happens-behind-the-scenes-in-java-79f7504d725d?source=rss-bdbfdefc7338------2)
 - [Heap Memory and How It Works in Java](https://medium.com/codimis/heap-memory-and-how-it-works-in-java-2639225ce1a2?source=rss-bdbfdefc7338------2)
 - [Stack Memory and How It Works in Java](https://medium.com/codimis/stack-memory-and-how-it-works-in-java-5f8b904fdc25?source=rss-bdbfdefc7338------2)
 - [Bitwise Operator vs Logical Operator in Java](https://medium.com/codimis/bitwise-operator-vs-logical-operator-in-java-00870df56821?source=rss-bdbfdefc7338------2)
-- [Understanding the new Keyword in Java](https://medium.com/codimis/understanding-the-new-keyword-in-java-be571dec090b?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
