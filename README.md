@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Java used for?](https://medium.com/codimis/what-is-java-used-for-fd5280d4c073?source=rss-bdbfdefc7338------2)
 - [How to Generate Random Integer Between Two Integers in Javascript](https://medium.com/codimis/how-to-generate-random-integer-between-two-integers-in-javascript-6dabcebcf3c3?source=rss-bdbfdefc7338------2)
 - [Stack Memory and Heap Memory in Java](https://medium.com/codimis/stack-memory-and-heap-memory-in-java-87638905ebd9?source=rss-bdbfdefc7338------2)
 - [Autoboxing and Unboxing in Java](https://medium.com/codimis/autoboxing-and-unboxing-in-java-0eb6e80d06df?source=rss-bdbfdefc7338------2)
-- [Exception, What Happens Behind the Scenes in Java](https://medium.com/codimis/exception-what-happens-behind-the-scenes-in-java-79f7504d725d?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
