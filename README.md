@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Constructor and Constructor’s Return Type in Java](https://medium.com/codimis/constructor-and-constructors-return-type-in-java-9d5297d0d713?source=rss-bdbfdefc7338------2)
+- [ArrayList in Java](https://medium.com/codimis/arraylist-in-java-cbb43e59ef9f?source=rss-bdbfdefc7338------2)
 - [Variable Types in Java](https://medium.com/codimis/variable-types-in-java-69341b38f39e?source=rss-bdbfdefc7338------2)
 - [Initializing Arrays in Java](https://medium.com/codimis/initializing-arrays-in-java-6549bcad38c1?source=rss-bdbfdefc7338------2)
-- [What is Java used for?](https://medium.com/codimis/what-is-java-used-for-fd5280d4c073?source=rss-bdbfdefc7338------2)
-- [How to Generate Random Integer Between Two Integers in Javascript](https://medium.com/codimis/how-to-generate-random-integer-between-two-integers-in-javascript-6dabcebcf3c3?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
