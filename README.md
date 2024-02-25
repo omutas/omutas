@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Marker Interface in Java](https://medium.com/codimis/marker-interface-in-java-53cdcdc1e68f?source=rss-bdbfdefc7338------2)
+- [Reference Types in Java](https://medium.com/codimis/reference-types-in-java-9a739f8b0189?source=rss-bdbfdefc7338------2)
+- [Types of Polymorphism in Java](https://medium.com/codimis/types-of-polymorphism-in-java-1c4a443c961f?source=rss-bdbfdefc7338------2)
 - [Java Stream API Best Practices](https://medium.com/codimis/java-stream-api-best-practices-758cac707f28?source=rss-bdbfdefc7338------2)
-- [Lazy Initialization Design Pattern and Java Implementation](https://medium.com/codimis/lazy-initialization-design-pattern-and-java-implementation-fa5097dab002?source=rss-bdbfdefc7338------2)
-- [Constructor and Constructor’s Return Type in Java](https://medium.com/codimis/constructor-and-constructors-return-type-in-java-9d5297d0d713?source=rss-bdbfdefc7338------2)
-- [ArrayList in Java](https://medium.com/codimis/arraylist-in-java-cbb43e59ef9f?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
