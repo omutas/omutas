@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Type Casting — Widening and Narrowing](https://medium.com/codimis/java-type-casting-widening-and-narrowing-5ca0d2fdfbb1?source=rss-bdbfdefc7338------2)
 - [Difference Between execute&lpar;&rpar; and submit&lpar;&rpar; in ExecutorService](https://medium.com/codimis/difference-between-execute-and-submit-in-executorservice-5b6f1eeeb2da?source=rss-bdbfdefc7338------2)
 - [Exception Handling in Java Streams](https://medium.com/codimis/exception-handling-in-java-streams-3f877f691595?source=rss-bdbfdefc7338------2)
 - [Marker Interface in Java](https://medium.com/codimis/marker-interface-in-java-53cdcdc1e68f?source=rss-bdbfdefc7338------2)
-- [Reference Types in Java](https://medium.com/codimis/reference-types-in-java-9a739f8b0189?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
