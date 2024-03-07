@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is EnumMap in Java and When to Use It](https://medium.com/codimis/what-is-enummap-in-java-and-when-to-use-it-a7e16dfbdef9?source=rss-bdbfdefc7338------2)
 - [Type Erasure in Java](https://medium.com/codimis/type-erasure-in-java-994b4749c7e4?source=rss-bdbfdefc7338------2)
 - [Java Type Casting — Widening and Narrowing](https://medium.com/codimis/java-type-casting-widening-and-narrowing-5ca0d2fdfbb1?source=rss-bdbfdefc7338------2)
 - [Difference Between execute&lpar;&rpar; and submit&lpar;&rpar; in ExecutorService](https://medium.com/codimis/difference-between-execute-and-submit-in-executorservice-5b6f1eeeb2da?source=rss-bdbfdefc7338------2)
-- [Exception Handling in Java Streams](https://medium.com/codimis/exception-handling-in-java-streams-3f877f691595?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
