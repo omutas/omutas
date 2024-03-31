@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Case-Insensitive String Comparison in JavaScript](https://medium.com/codimis/case-insensitive-string-comparison-in-javascript-b7135f82ae4d?source=rss-bdbfdefc7338------2)
 - [Manage React State With Reducer](https://blog.stackademic.com/manage-react-state-with-reducer-ed0a2eff0ace?source=rss-bdbfdefc7338------2)
 - [Terminal Productivity Booster Zsh Plugins](https://medium.com/codimis/terminal-productivity-booster-zsh-plugins-e8750ad1453d?source=rss-bdbfdefc7338------2)
 - [Terminals are Colorful and Beautiful with Powerlevel10k](https://medium.com/codimis/terminals-are-colorful-and-beautiful-with-powerlevel10k-624594a2cc6f?source=rss-bdbfdefc7338------2)
-- [What is EnumMap in Java and When to Use It](https://medium.com/codimis/what-is-enummap-in-java-and-when-to-use-it-a7e16dfbdef9?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
