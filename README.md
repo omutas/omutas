@@ -14,7 +14,7 @@
 - [Built-in Enum Methods in Java](https://blog.codimis.com/build-in-enum-methods-in-java-b6cf11395f03?source=rss-bdbfdefc7338------2)
 - [Why Do We Need Accessor Methods?](https://blog.codimis.com/why-do-we-need-accessor-methods-3b72e2be1da6?source=rss-bdbfdefc7338------2)
 - [Case-Insensitive String Comparison in JavaScript](https://blog.codimis.com/case-insensitive-string-comparison-in-javascript-b7135f82ae4d?source=rss-bdbfdefc7338------2)
-- [Manage React State With Reducer](https://blog.stackademic.com/manage-react-state-with-reducer-ed0a2eff0ace?source=rss-bdbfdefc7338------2)
+- [Manage React State With Reducer](https://mugurtas.medium.com/manage-react-state-with-reducer-ed0a2eff0ace?source=rss-bdbfdefc7338------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
